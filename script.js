@@ -29,70 +29,70 @@ const music_list = [
         color: '#b0b0ae'
     },
     {
-        img: '/albums/bigmouth.png',
+        img: 'albums/bigmouth.png',
         name: 'Bigmouth Strikes Again',
         artist: 'The Smiths',
         music: 'songs/bigmouth.mp3',
         color: '#a187c0'
     },
     {
-        img: '/albums/flawless.png',
+        img: 'albums/flawless.png',
         name: 'Flawless',
         artist: 'Beyoncé',
         music: 'songs/flawless.mp3',
         color: '#b6bdba'
     },
     {
-        img: '/albums/lastnight.png',
+        img: 'albums/lastnight.png',
         name: 'Last Night I Dreamt That Somebody Loved Me',
         artist: 'The Smiths',
         music: 'songs/lastnight.mp3',
         color: '#ebe6db'
     },
     {
-        img: '/albums/masterofnone.png',
+        img: 'albums/masterofnone.png',
         name: 'Master of None',
         artist: 'Beach House',
         music: 'songs/masterofnone.mp3',
         color: '#a77b3e'
     },
     {
-        img: '/albums/pasdedeux.png',
+        img: 'albums/pasdedeux.png',
         name: 'Pas de Deux',
         artist: 'Tschaikovsky',
         music: 'songs/pasdedeux.mp3',
         color: '#c8d7e0'
     },
     {
-        img: '/albums/rosemary.png',
+        img: 'albums/rosemary.png',
         name: 'Rosemary',
         artist: 'Deftones',
         music: 'songs/rosemary.mp3',
         color: '#000000'
     },
     {
-        img: '/albums/simulation.png',
+        img: 'albums/simulation.png',
         name: 'Simulation Swarm',
         artist: 'Big Thief',
         music: 'songs/simulation.mp3',
         color: '#edeae7'
     },
     {
-        img: '/albums/succubus.png',
+        img: 'albums/succubus.png',
         name: 'Succubus',
         artist: 'Ken Carson',
         music: 'songs/succubus.mp3',
         color: '#636a76'
     },
     {
-        img: '/albums/toallofyou.png',
+        img: 'albums/toallofyou.png',
         name: 'To All of You',
         artist: 'Syd Matters',
         music: 'songs/toallofyou.mp3',
         color: '#70a757'
     },
     {
-        img: '/albums/yourenot.png',
+        img: 'albums/yourenot.png',
         name: "You're Not the Only One I Know",        
         artist: 'The Sundays',
         music: 'songs/yourenot.mp3',
